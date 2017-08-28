@@ -19,6 +19,7 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 The full text of the GPL is in the LICENSE file.
+Update 2 into file
 */
 require_once realpath(dirname(__FILE__) . '/../const.php');
 require_once realpath(dirname(__FILE__) . '/../application/const.php');
